@@ -1,0 +1,15 @@
+C:\Users\MiguelRuiz\Documents\Z\c#\loops\bin\Debug\net6.0\loops.exe
+C:\Users\MiguelRuiz\Documents\Z\c#\loops\bin\Debug\net6.0\loops.deps.json
+C:\Users\MiguelRuiz\Documents\Z\c#\loops\bin\Debug\net6.0\loops.runtimeconfig.json
+C:\Users\MiguelRuiz\Documents\Z\c#\loops\bin\Debug\net6.0\loops.dll
+C:\Users\MiguelRuiz\Documents\Z\c#\loops\bin\Debug\net6.0\ref\loops.dll
+C:\Users\MiguelRuiz\Documents\Z\c#\loops\bin\Debug\net6.0\loops.pdb
+C:\Users\MiguelRuiz\Documents\Z\c#\loops\obj\Debug\net6.0\loops.csproj.AssemblyReference.cache
+C:\Users\MiguelRuiz\Documents\Z\c#\loops\obj\Debug\net6.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MiguelRuiz\Documents\Z\c#\loops\obj\Debug\net6.0\loops.AssemblyInfoInputs.cache
+C:\Users\MiguelRuiz\Documents\Z\c#\loops\obj\Debug\net6.0\loops.AssemblyInfo.cs
+C:\Users\MiguelRuiz\Documents\Z\c#\loops\obj\Debug\net6.0\loops.csproj.CoreCompileInputs.cache
+C:\Users\MiguelRuiz\Documents\Z\c#\loops\obj\Debug\net6.0\loops.dll
+C:\Users\MiguelRuiz\Documents\Z\c#\loops\obj\Debug\net6.0\ref\loops.dll
+C:\Users\MiguelRuiz\Documents\Z\c#\loops\obj\Debug\net6.0\loops.pdb
+C:\Users\MiguelRuiz\Documents\Z\c#\loops\obj\Debug\net6.0\loops.genruntimeconfig.cache
